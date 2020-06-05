@@ -1,2 +1,2 @@
 ## Document Retrieval 
-Implementation of binary perceptron applied against sentiment analysis focusing on movie reviews to predict the sentiment reviews for the purpose of Text Processing assignment
+Implementation of binary perceptron applied against sentiment analysis focusing on movie reviews to predict the sentiment reviews for the purpose of Natural Language Processing assignmen
